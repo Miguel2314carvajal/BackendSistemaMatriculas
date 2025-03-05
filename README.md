@@ -18,3 +18,4 @@ estos son algunas mejoras
 en el front-dist 
 nmp run build
 _redirects
+/* /index.html 200
